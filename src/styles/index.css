@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    place-content: center;
+}
+.carta{
+    border-radius: 5px;
+    border: solid 1px black;
+    display: inline-block;
+    width: 257px;
+    margin: 10px;
+}
+body{
+    background: url('https://3000-c86fe07a-22d9-4251-b94e-c565ed42d4d5.ws-us02.gitpod.io//img/imagen5.jpg');
+    background-size: cover;
+}
